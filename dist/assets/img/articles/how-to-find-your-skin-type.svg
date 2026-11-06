@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Skin Basics article cover">
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d6ecff"/><stop offset=".55" stop-color="#a98cff"/><stop offset="1" stop-color="#ff8fb5"/></linearGradient>
+    <radialGradient id="b" cx=".2" cy=".15" r=".7"><stop offset="0" stop-color="#fff" stop-opacity=".8"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#a)"/><rect width="1200" height="630" fill="url(#b)"/>
+  <circle cx="150" cy="560" r="180" fill="#fff" opacity=".18"/><circle cx="640" cy="40" r="110" fill="#fff" opacity=".14"/>
+  <path d="M960 90 C1040 210 1070 260 1070 320 A110 110 0 0 1 850 320 C850 260 880 210 960 90 Z" fill="#fff" opacity=".5"/><path d="M1080 380 C1115 430 1128 450 1128 478 A48 48 0 0 1 1032 478 C1032 450 1045 430 1080 380 Z" fill="#fff" opacity=".4"/>
+</svg>

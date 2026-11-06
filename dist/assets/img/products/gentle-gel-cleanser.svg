@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 700" role="img" aria-label="Gentle Gel Cleanser illustration">
+  <defs>
+    <linearGradient id="bggentlegelc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd3e2"/><stop offset="1" stop-color="#fff7f4"/></linearGradient>
+    <linearGradient id="ggentlegelc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd3e2"/><stop offset=".55" stop-color="#ff8fb5"/><stop offset="1" stop-color="#c2255c" stop-opacity=".9"/></linearGradient>
+    <linearGradient id="cgentlegelc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff8fb5"/><stop offset="1" stop-color="#c2255c"/></linearGradient>
+    <radialGradient id="rgentlegelc" cx=".5" cy=".4" r=".6"><stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="600" height="700" fill="url(#bggentlegelc)"/>
+  <circle cx="110" cy="110" r="140" fill="#ff8fb5" opacity=".25"/>
+  <circle cx="520" cy="620" r="170" fill="#c2255c" opacity=".16"/>
+  <circle cx="300" cy="330" r="260" fill="url(#rgentlegelc)"/>
+  <circle cx="470" cy="150" r="9" fill="#fff" opacity=".9"/><circle cx="130" cy="520" r="6" fill="#fff" opacity=".9"/><circle cx="505" cy="400" r="5" fill="#fff" opacity=".8"/>
+  
+    <ellipse cx="300" cy="586" rx="120" ry="16" fill="#2b1d3a" opacity=".12"/>
+    <rect x="190" y="230" width="220" height="340" rx="44" fill="url(#ggentlegelc)"/>
+    <rect x="262" y="190" width="76" height="48" rx="10" fill="url(#cgentlegelc)"/>
+    <rect x="286" y="120" width="28" height="76" rx="8" fill="url(#cgentlegelc)"/>
+    <path d="M286 120 H380 Q400 120 400 140 V152 H314 V132 Z" fill="url(#cgentlegelc)"/>
+    <rect x="214" y="320" width="172" height="170" rx="22" fill="#fff" opacity=".55"/>
+    <rect x="236" y="354" width="104" height="10" rx="5" fill="url(#cgentlegelc)" opacity=".7"/>
+    <rect x="236" y="378" width="70" height="8" rx="4" fill="#2b1d3a" opacity=".18"/>
+    <rect x="204" y="250" width="16" height="300" rx="8" fill="#fff" opacity=".4"/>
+</svg>

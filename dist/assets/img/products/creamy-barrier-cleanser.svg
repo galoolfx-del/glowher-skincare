@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 700" role="img" aria-label="Creamy Barrier Cleanser illustration">
+  <defs>
+    <linearGradient id="bgcreamybarr" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffe9ef"/><stop offset="1" stop-color="#fff7f4"/></linearGradient>
+    <linearGradient id="gcreamybarr" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffe9ef"/><stop offset=".55" stop-color="#ffb7d0"/><stop offset="1" stop-color="#d6336c" stop-opacity=".9"/></linearGradient>
+    <linearGradient id="ccreamybarr" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffb7d0"/><stop offset="1" stop-color="#d6336c"/></linearGradient>
+    <radialGradient id="rcreamybarr" cx=".5" cy=".4" r=".6"><stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="600" height="700" fill="url(#bgcreamybarr)"/>
+  <circle cx="110" cy="110" r="140" fill="#ffb7d0" opacity=".25"/>
+  <circle cx="520" cy="620" r="170" fill="#d6336c" opacity=".16"/>
+  <circle cx="300" cy="330" r="260" fill="url(#rcreamybarr)"/>
+  <circle cx="470" cy="150" r="9" fill="#fff" opacity=".9"/><circle cx="130" cy="520" r="6" fill="#fff" opacity=".9"/><circle cx="505" cy="400" r="5" fill="#fff" opacity=".8"/>
+  
+    <ellipse cx="300" cy="586" rx="120" ry="16" fill="#2b1d3a" opacity=".12"/>
+    <path d="M200 160 H400 L388 520 Q386 560 350 560 H250 Q214 560 212 520 Z" fill="url(#gcreamybarr)"/>
+    <rect x="236" y="96" width="128" height="72" rx="14" fill="url(#ccreamybarr)"/>
+    <rect x="244" y="540" width="112" height="28" rx="8" fill="url(#ccreamybarr)" opacity=".85"/>
+    <rect x="230" y="240" width="140" height="170" rx="22" fill="#fff" opacity=".55"/>
+    <rect x="248" y="270" width="84" height="10" rx="5" fill="url(#ccreamybarr)" opacity=".7"/>
+    <rect x="248" y="294" width="60" height="8" rx="4" fill="#2b1d3a" opacity=".18"/>
+    <rect x="216" y="180" width="14" height="320" rx="7" fill="#fff" opacity=".4"/>
+</svg>

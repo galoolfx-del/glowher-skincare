@@ -1,0 +1,13 @@
+{
+  "name": "glowher-skincare",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GlowHer Skincare: static affiliate-marketing website (no runtime dependencies).",
+  "scripts": {
+    "build": "node src/build.js",
+    "serve": "python3 -m http.server 8080 --directory dist",
+    "test:links": "node tests/check-links.js",
+    "test:browser": "python3 tests/browser-test.py",
+    "test": "npm run build && npm run test:links && npm run test:browser"
+  }
+}

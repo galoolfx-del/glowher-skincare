@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 700" role="img" aria-label="Daily Fluid Sunscreen SPF 50 illustration">
+  <defs>
+    <linearGradient id="bgdailyfluid" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff0b8"/><stop offset="1" stop-color="#fff7f4"/></linearGradient>
+    <linearGradient id="gdailyfluid" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff0b8"/><stop offset=".55" stop-color="#ffc94d"/><stop offset="1" stop-color="#e8590c" stop-opacity=".9"/></linearGradient>
+    <linearGradient id="cdailyfluid" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffc94d"/><stop offset="1" stop-color="#e8590c"/></linearGradient>
+    <radialGradient id="rdailyfluid" cx=".5" cy=".4" r=".6"><stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="600" height="700" fill="url(#bgdailyfluid)"/>
+  <circle cx="110" cy="110" r="140" fill="#ffc94d" opacity=".25"/>
+  <circle cx="520" cy="620" r="170" fill="#e8590c" opacity=".16"/>
+  <circle cx="300" cy="330" r="260" fill="url(#rdailyfluid)"/>
+  <circle cx="470" cy="150" r="9" fill="#fff" opacity=".9"/><circle cx="130" cy="520" r="6" fill="#fff" opacity=".9"/><circle cx="505" cy="400" r="5" fill="#fff" opacity=".8"/>
+  
+    <ellipse cx="300" cy="586" rx="120" ry="16" fill="#2b1d3a" opacity=".12"/>
+    <path d="M200 160 H400 L388 520 Q386 560 350 560 H250 Q214 560 212 520 Z" fill="url(#gdailyfluid)"/>
+    <rect x="236" y="96" width="128" height="72" rx="14" fill="url(#cdailyfluid)"/>
+    <rect x="244" y="540" width="112" height="28" rx="8" fill="url(#cdailyfluid)" opacity=".85"/>
+    <rect x="230" y="240" width="140" height="170" rx="22" fill="#fff" opacity=".55"/>
+    <rect x="248" y="270" width="84" height="10" rx="5" fill="url(#cdailyfluid)" opacity=".7"/>
+    <rect x="248" y="294" width="60" height="8" rx="4" fill="#2b1d3a" opacity=".18"/>
+    <rect x="216" y="180" width="14" height="320" rx="7" fill="#fff" opacity=".4"/>
+</svg>

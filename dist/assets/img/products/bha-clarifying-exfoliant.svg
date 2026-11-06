@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 700" role="img" aria-label="BHA Clarifying Exfoliant illustration">
+  <defs>
+    <linearGradient id="bgbhaclarify" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#cdf3ea"/><stop offset="1" stop-color="#fff7f4"/></linearGradient>
+    <linearGradient id="gbhaclarify" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#cdf3ea"/><stop offset=".55" stop-color="#76d7c4"/><stop offset="1" stop-color="#0c8f7a" stop-opacity=".9"/></linearGradient>
+    <linearGradient id="cbhaclarify" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#76d7c4"/><stop offset="1" stop-color="#0c8f7a"/></linearGradient>
+    <radialGradient id="rbhaclarify" cx=".5" cy=".4" r=".6"><stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="600" height="700" fill="url(#bgbhaclarify)"/>
+  <circle cx="110" cy="110" r="140" fill="#76d7c4" opacity=".25"/>
+  <circle cx="520" cy="620" r="170" fill="#0c8f7a" opacity=".16"/>
+  <circle cx="300" cy="330" r="260" fill="url(#rbhaclarify)"/>
+  <circle cx="470" cy="150" r="9" fill="#fff" opacity=".9"/><circle cx="130" cy="520" r="6" fill="#fff" opacity=".9"/><circle cx="505" cy="400" r="5" fill="#fff" opacity=".8"/>
+  
+    <ellipse cx="300" cy="586" rx="110" ry="16" fill="#2b1d3a" opacity=".12"/>
+    <path d="M240 200 H360 V250 Q410 280 410 340 V520 Q410 570 360 570 H240 Q190 570 190 520 V340 Q190 280 240 250 Z" fill="url(#gbhaclarify)"/>
+    <rect x="254" y="120" width="92" height="88" rx="14" fill="url(#cbhaclarify)"/>
+    <rect x="214" y="350" width="172" height="150" rx="22" fill="#fff" opacity=".55"/>
+    <rect x="236" y="384" width="100" height="10" rx="5" fill="url(#cbhaclarify)" opacity=".7"/>
+    <rect x="236" y="408" width="70" height="8" rx="4" fill="#2b1d3a" opacity=".18"/>
+    <rect x="204" y="320" width="16" height="220" rx="8" fill="#fff" opacity=".4"/>
+</svg>
